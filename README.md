@@ -1,10 +1,13 @@
-Hi, I’m Nicola 👋 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hi, I’m Nicola👋</h1>
+I'm a web developer working in Treviso, Italy
 
-<!---
-ndurante90/ndurante90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+👀 I’m interested in frontend development using javascript and relative frameworks
+
+🌱 I’m currently learning React framework
+
+<h2>Contacts 📫</h2>
+<ul>
+   <li>Linkedin: <a href="" target="_blank">https://www.linkedin.com/in/nicola-durante-4b5285a1/</a></li>
+   <li>Email: <a href="mailto:nickdurante90@gmail.com">nickdurante90@gmail.com</a>
+</ul>
