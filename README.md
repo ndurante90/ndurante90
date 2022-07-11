@@ -1,4 +1,4 @@
-<h1>Hi, I’m Nicola👋</h1>
+# Hi, I’m Nicola👋
 I'm a web developer working in Treviso, Italy
 
 
@@ -6,7 +6,7 @@ I'm a web developer working in Treviso, Italy
 
 🌱 I’m currently learning React framework
 
-<h2>Contacts 📫</h2>
+## Contacts 📫
 <ul>
    <li>Linkedin: <a href="" target="_blank">https://www.linkedin.com/in/nicola-durante-4b5285a1/</a></li>
    <li>Email: <a href="mailto:nickdurante90@gmail.com">nickdurante90@gmail.com</a>
