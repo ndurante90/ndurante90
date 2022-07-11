@@ -1,6 +1,7 @@
 # Hi, I’m Nicola👋
 I'm a web developer working in Treviso, Italy
 
+👨‍💻 Bachelor Degree in Computer Science
 
 👀 I’m interested in frontend development using javascript and relative frameworks
 
