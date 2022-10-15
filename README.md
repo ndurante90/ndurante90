@@ -1,4 +1,4 @@
-# Hi, I’m Nicola👋 :it:
+# Hi, I’m Nicola👋
 I'm a web developer working in Treviso, Italy
 
 👨‍💻 Bachelor Degree in Computer Science
