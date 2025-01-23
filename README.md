@@ -5,7 +5,7 @@ I'm a web developer working in Treviso, Italy
 
 👀 I’m interested in frontend development using javascript and relative frameworks
 
-🌱 I’m currently learning React framework
+🌱 I’m currently using Angular Framework for the development of pederivaland app
 
 ## Contacts 📫
 <ul>
